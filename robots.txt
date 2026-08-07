@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-l4nmky.cuansalam.sbs/sitemap.xml
